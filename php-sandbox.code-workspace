@@ -12,5 +12,8 @@
             "name": "test",
 			"path": "./sites/test/html/"
 		}
-	]
+	],
+	"settings": {
+		"phpstan.suppressWorkspaceMessage": true
+	}
 }
